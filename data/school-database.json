@@ -1,0 +1,326 @@
+{
+  "settings": {
+    "schoolName": "IDEAL GLOBAL ISLAMIC ENGLISH MEDIUM SCHOOL, KAMALAPURAM",
+    "shortName": "Ideal Global School",
+    "tagline": "Shaping Bright Minds. Building Strong Values.",
+    "heroDescription": "Welcome to Ideal Global Islamic English Medium School, Kamalapuram — where quality English-medium education, Islamic values, discipline, creativity, and character development come together.",
+    "address": "Opposite Post Office, R.S. Road, Kamalapuram – 516289, Andhra Pradesh, India.",
+    "landmark": "Opposite Post Office, R.S. Road",
+    "city": "Kamalapuram",
+    "pincode": "516289",
+    "state": "Andhra Pradesh",
+    "phone": "+91 9963377320",
+    "displayPhone": "+91 9963377320",
+    "whatsappNumber": "919963377320",
+    "email": "idealglobalschoolkdp@gmail.com",
+    "workingHours": "Monday – Saturday: 8:30 AM – 4:30 PM (Sunday Closed)",
+    "announcement": "Admissions Open for Academic Year 2026–2027 from Nursery to Class X! Call +91 9963377320 or apply online today.",
+    "announcementActive": true,
+    "principalMessage": "At Ideal Global Islamic English Medium School, we believe every child is blessed with a unique intellect and pure spirit. Our pedagogical journey is crafted to balance contemporary English-medium academics with timeless Islamic ethics, nurturing learners who think critically, behave respectfully, and excel with confidence.",
+    "principalTitle": "Head of Institution",
+    "schoolHistory": "Founded with a sacred vision to provide children of Kamalapuram and surrounding areas with exemplary English-medium schooling rooted in Islamic morals, discipline, and modern technological readiness."
+  },
+  "notices": [
+    {
+      "id": "not-1",
+      "title": "Admissions Open for Academic Session 2026–2027",
+      "category": "Admission",
+      "date": "2026-10-15",
+      "description": "Enrolment forms for Nursery, LKG, UKG, and Classes I through X are now available. Parents can submit their enquiry online through this portal or visit the school office during working hours.",
+      "isPinned": true,
+      "isPublished": true,
+      "downloadUrl": ""
+    },
+    {
+      "id": "not-2",
+      "title": "Term Assessment & Parent-Teacher Interaction Schedule",
+      "category": "Examination",
+      "date": "2026-10-10",
+      "description": "The upcoming continuous evaluation tests for Classes I to X will commence as per the published calendar. Detailed subject schedules and parent-teacher meeting slots will be shared via student diaries.",
+      "isPinned": true,
+      "isPublished": true,
+      "downloadUrl": ""
+    },
+    {
+      "id": "not-3",
+      "title": "Annual Seerat-un-Nabi & Moral Values Elocution Programme",
+      "category": "Event",
+      "date": "2026-09-28",
+      "description": "Students from Primary to Secondary sections participated with great enthusiasm in speech, calligraphy, and Quranic recitation presentations highlighting ethical character and compassion.",
+      "isPinned": false,
+      "isPublished": true,
+      "downloadUrl": ""
+    },
+    {
+      "id": "not-4",
+      "title": "Science & Digital Literacy Exhibition 2026",
+      "category": "Event",
+      "date": "2026-09-15",
+      "description": "Our computer lab and science classrooms hosted dynamic student model demonstrations, practical experiments, and foundational coding displays for visiting parents.",
+      "isPinned": false,
+      "isPublished": true,
+      "downloadUrl": ""
+    },
+    {
+      "id": "not-5",
+      "title": "School Uniform and Punctuality Guidelines",
+      "category": "Circular",
+      "date": "2026-09-01",
+      "description": "All parents are requested to ensure students arrive promptly by 8:30 AM in clean, compliant school attire. Regularity and discipline are fundamental to our learning ethos.",
+      "isPinned": false,
+      "isPublished": true,
+      "downloadUrl": ""
+    }
+  ],
+  "enquiries": [
+    {
+      "parentName": "Test Parent",
+      "studentName": "Test Student",
+      "applyingClass": "Class I",
+      "phone": "+91 9963377320",
+      "message": "Verification enquiry",
+      "id": "enq-1792501751649",
+      "status": "pending",
+      "notes": "",
+      "createdAt": "2026-10-20T13:09:11.649Z"
+    },
+    {
+      "id": "enq-101",
+      "parentName": "Mohammed Rafi",
+      "studentName": "Ayaan Rafi",
+      "applyingClass": "Class I",
+      "phone": "+91 9848022334",
+      "email": "mrafi.kadapa@gmail.com",
+      "message": "Enquiring about admission process, syllabus, and book distribution for Class I.",
+      "status": "contacted",
+      "notes": "Spoke to parent on 18 Oct. Invited for campus visit and document verification.",
+      "createdAt": "2026-10-18T10:30:00.000Z"
+    },
+    {
+      "id": "enq-102",
+      "parentName": "Shaik Farhana",
+      "studentName": "Zoya Shaik",
+      "applyingClass": "LKG",
+      "phone": "+91 9700123456",
+      "email": "farhana.shaik@gmail.com",
+      "message": "Seeking admission for my daughter in LKG. What are the age criteria?",
+      "status": "pending",
+      "notes": "",
+      "createdAt": "2026-10-19T14:15:00.000Z"
+    }
+  ],
+  "academics": [
+    {
+      "id": "early-childhood",
+      "stage": "Early Childhood Education",
+      "classes": [
+        "Nursery",
+        "LKG",
+        "UKG"
+      ],
+      "ageGroup": "3 – 5 Years",
+      "summary": "Playful, joyful foundational learning that builds cognitive curiosity, early phonics, bilingual conversational ease, fine motor skills, and moral gentleness.",
+      "subjects": [
+        "Phonics & English Reading",
+        "Basic Numbers & Shapes",
+        "Telugu Basics",
+        "Moral Stories & Deeniyat",
+        "Rhymes & Music",
+        "Art & Sensory Play"
+      ],
+      "focus": [
+        "Interactive activity-based learning without heavy homework pressure",
+        "Habits of hygiene, polite manners, and sharing",
+        "Foundational Arabic phonetics (Noorani Qaida basics) alongside English alphabets",
+        "Spacious, safe, child-friendly classrooms"
+      ]
+    },
+    {
+      "id": "primary",
+      "stage": "Primary Education",
+      "classes": [
+        "Class I",
+        "Class II",
+        "Class III",
+        "Class IV",
+        "Class V"
+      ],
+      "ageGroup": "6 – 10 Years",
+      "summary": "Solidifying numeracy, literacy, linguistic versatility, hands-on scientific observation, computer exposure, and daily practice of Islamic etiquette.",
+      "subjects": [
+        "English (Grammar & Reader)",
+        "Telugu (Regional Language)",
+        "Hindi (Second Language)",
+        "Mathematics",
+        "Environmental Studies & Science",
+        "Social Studies",
+        "Computer Literacy",
+        "Deeniyat / Moral Education",
+        "Handwriting & Calligraphy",
+        "Physical Education"
+      ],
+      "focus": [
+        "Fluency in spoken and written English with vocabulary enrichment",
+        "Conceptual math foundations through problem-solving and mental drills",
+        "Basic computer education starting early with hands-on practice",
+        "Character building, truthful conduct, and daily Duas and etiquettes"
+      ]
+    },
+    {
+      "id": "middle-school",
+      "stage": "Middle School Education",
+      "classes": [
+        "Class VI",
+        "Class VII",
+        "Class VIII"
+      ],
+      "ageGroup": "11 – 13 Years",
+      "summary": "Encouraging structured inquiry, critical thinking, experimental scientific investigation, technological fluency, and deep ethical conviction.",
+      "subjects": [
+        "General Science (Physics, Chemistry, Biology)",
+        "Mathematics (Algebra, Geometry, Arithmetic)",
+        "Social Studies (History, Geography, Civics)",
+        "English Language & Literature",
+        "Telugu",
+        "Hindi",
+        "Computer Science & IT Fundamentals",
+        "Deeniyat & Islamic Studies",
+        "Physical Training & Athletics"
+      ],
+      "focus": [
+        "Inquiry-driven science with classroom experiments and project models",
+        "Computer applications, logic formulation, and digital citizenship",
+        "Public speaking, elocution, essay writing, and regional debate participation",
+        "Adolescent character mentoring grounded in respectful Islamic brotherhood"
+      ]
+    },
+    {
+      "id": "secondary",
+      "stage": "Secondary Education",
+      "classes": [
+        "Class IX",
+        "Class X"
+      ],
+      "ageGroup": "14 – 15 Years",
+      "summary": "Rigorous academic preparation, conceptual mastery across core disciplines, targeted exam readiness, leadership skills, and righteous civic responsibility.",
+      "subjects": [
+        "Mathematics",
+        "Physical Science",
+        "Biological Science",
+        "Social Studies",
+        "First Language English",
+        "Second Language (Telugu / Hindi)",
+        "Computer Science & Applications",
+        "Islamic Ethics & Life Guidance",
+        "Personality Development"
+      ],
+      "focus": [
+        "Systematic syllabus coverage with regular unit tests and remedial support",
+        "Dedicated revision sessions and past question paper analyses",
+        "Career and higher education counselling for post-matriculation pathways",
+        "Nurturing confident, grounded individuals who shine in both faith and academics"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "id": "fac-1",
+      "name": "Well-Ventilated Classrooms",
+      "category": "Academic",
+      "description": "Spacious, airy classrooms designed with ergonomic wooden benches, ample natural window light, blackboard fixtures, and an environment conducive to focused study.",
+      "image": "/src/assets/images/classroom_learning_1792501180266.jpg",
+      "highlight": "Natural lighting & focused seating"
+    },
+    {
+      "id": "fac-2",
+      "name": "Dedicated Computer Laboratory",
+      "category": "Technology",
+      "description": "Modern computer education workstations where students learn foundational digital literacy, typing, office tools, and introductory logical problem solving.",
+      "image": "/src/assets/images/computer_lab_1792501179729.jpg",
+      "highlight": "Hands-on individual terminal practice"
+    },
+    {
+      "id": "fac-3",
+      "name": "School Library & Reading Resource",
+      "category": "Academic",
+      "description": "Curated collection of age-appropriate English literature, reference books, encyclopedias, bilingual dictionaries, and inspirational moral literature.",
+      "image": "/src/assets/images/library_reading_1792501179699.jpg",
+      "highlight": "Encouraging quiet reading & research habits"
+    },
+    {
+      "id": "fac-4",
+      "name": "Islamic & Moral Education Wing",
+      "category": "Values",
+      "description": "Structured curriculum encompassing Noorani Qaida, Tajweed fundamentals, Islamic etiquette (Adaab), daily supplications (Duas), and character-building stories of the Prophets.",
+      "image": "/src/assets/images/classroom_learning_1792501180266.jpg",
+      "highlight": "Integrating faith, ethics, and daily conduct"
+    },
+    {
+      "id": "fac-5",
+      "name": "Sports & Physical Fitness Activities",
+      "category": "Physical",
+      "description": "Designated play areas for physical education drills, badminton, volleyball, athletics, and traditional games that instill sportsmanship, fitness, and teamwork.",
+      "image": "/src/assets/images/hero_school_campus_1792501178861.jpg",
+      "highlight": "Regular physical training & teamwork drills"
+    },
+    {
+      "id": "fac-6",
+      "name": "Safe, Disciplined & Supportive Campus",
+      "category": "Safety",
+      "description": "Strict code of conduct, vigilant supervision, hygienic drinking water facilities, separate student amenities, and respectful teacher-student communication.",
+      "image": "/src/assets/images/hero_school_campus_1792501178861.jpg",
+      "highlight": "Supervised campus opposite Post Office"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Interactive Mathematics & Science Classroom Session",
+      "category": "Classroom",
+      "date": "2026-10-12",
+      "imageUrl": "/src/assets/images/classroom_learning_1792501180266.jpg",
+      "description": "Students actively engaged in geometry and formula derivations with teacher explanation."
+    },
+    {
+      "id": "gal-2",
+      "title": "Hands-on Practical Training in Computer Laboratory",
+      "category": "Academic",
+      "date": "2026-10-08",
+      "imageUrl": "/src/assets/images/computer_lab_1792501179729.jpg",
+      "description": "Students developing essential digital keyboarding and software literacy under guidance."
+    },
+    {
+      "id": "gal-3",
+      "title": "Guided Reading Hour at the School Library",
+      "category": "Classroom",
+      "date": "2026-09-22",
+      "imageUrl": "/src/assets/images/library_reading_1792501179699.jpg",
+      "description": "Primary pupils exploring science encyclopedias and moral storytelling books."
+    },
+    {
+      "id": "gal-4",
+      "title": "School Campus & Morning Assembly Forecourt",
+      "category": "Events",
+      "date": "2026-09-10",
+      "imageUrl": "/src/assets/images/hero_school_campus_1792501178861.jpg",
+      "description": "Clean, peaceful school grounds ready for daily morning prayer and national anthem."
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "action": "SYSTEM_INIT",
+      "details": "Initialized school database with official institution details for Kamalapuram campus.",
+      "timestamp": "2026-10-20T05:58:00.000Z",
+      "adminUser": "system"
+    }
+  ],
+  "adminUsers": [
+    {
+      "username": "admin",
+      "passwordHash": "577dca0e06001712ae43cf83818e906cf2cfa4d4ab26fcfeac34b7f5263155f8",
+      "name": "School Administrator",
+      "role": "superadmin"
+    }
+  ]
+}

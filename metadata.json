@@ -1,0 +1,8 @@
+{
+  "name": "Ideal Global Islamic English Medium School",
+  "description": "Official website for Ideal Global Islamic English Medium School, Kamalapuram. Quality English-medium education, Islamic values, discipline, and technology-enabled learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
